@@ -1,2 +1,4 @@
 # Server-Status
 Repository for the Server Status adapter
+
+https://getbootstrap.com/docs/4.0/components/badge/#pill-badges Add pill badges
